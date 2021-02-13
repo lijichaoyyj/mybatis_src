@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mybatis-3.4.7-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.7-SNAPSHOT/mybatis-3.4.7-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/mybatis334_src" />
+    </SOURCES>
+  </library>
+</component>
